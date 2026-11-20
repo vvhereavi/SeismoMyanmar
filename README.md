@@ -1,0 +1,2 @@
+# SeismoMyanmar
+ICT Project
